@@ -1,5 +1,5 @@
 # Cotacoes-Bovespa
-Scrip que consome API para cotações historicas de ativos do Bovespa.
+Scrip que consome API para cotações historicas de ativos da B3.
 
 
 Bem vindo!
