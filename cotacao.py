@@ -7,7 +7,7 @@ from datetime import date, timedelta
 acao = ['bbas3', 'itsa4', 'ggbr4', 'mglu3', 'petr4']
 url = 'https://www.alphavantage.co/query?'
 func = 'TIME_SERIES_DAILY'
-key = #'insira sua key aqui'
+key = #'Sua key aqui'
 
 #Para cada item na lista 'Ação', vai repetir este loop.
 for a in acao:
