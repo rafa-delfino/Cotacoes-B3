@@ -1,4 +1,4 @@
-# Cotacoes-Bovespa
+# Cotacoes-B3
 Script que consome API para cotações historicas de ativos da B3.
 
 
